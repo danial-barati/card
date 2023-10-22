@@ -2,7 +2,7 @@
 
 **your dedicated card**
 
-![view](https://github.com/danial-barati/showcase-app/assets/104683176/bb3c6778-14e7-4bfa-a8b1-b22499361156)
+![view](https://github.com/danial-barati/card/assets/104683176/4a2a7c99-0a93-49a5-94b4-94e209cc07c5)
 
 - 🔗 [demo](https://danial-barati.github.io/showcase-app/)
 
